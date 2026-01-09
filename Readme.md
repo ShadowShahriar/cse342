@@ -5,6 +5,18 @@ In this advanced programming course, we will learn the fundamentals of Object Or
 -   [**📌 Course Outline: Theory**](materials/course-outline-theory.pdf)
 -   [**📌 Course Outline: Lab**](materials/course-outline-lab.pdf)
 
+## Course Information
+
+```
+Course Code   : CSE 341-342
+Course Title  : Advanced Programming
+Course Credit : 3 (Theory), 1.5 (Lab)
+```
+
+Course offered by,
+
+[**Most. Jannatul Ferdous**](https://www.bubt.edu.bd/department/27/faculty/profile/841)<br>Assistant Professor<br>Department of Computer Science and Engineering<br>**jannatul_ferdous@bubt.edu.bd**<br>+880 172 3586 258<br>B1/303
+
 ## Recommended Book
 
 -   [**📘 Java The Complete Reference, 7th Edition by Herbert Schildt**](materials/textbook.pdf)
