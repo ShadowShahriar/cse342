@@ -21,6 +21,19 @@ Course offered by,
 
 -   [**📘 Java The Complete Reference, 7th Edition by Herbert Schildt**](materials/textbook.pdf)
 
+## Class Notes
+
+-   [**Class 01**](https://shadowshahriar.github.io/cse342/notes/class-01.pdf): 05 January 2026
+-   [**Class 02**](https://shadowshahriar.github.io/cse342/notes/class-02.pdf): 08 January 2026
+
+## Lab Notes
+
+-   [**Lab 01**](#lab-notes): 06 January 2026
+
+## Lab Reports
+
+-   [**Lab 01**](https://shadowshahriar.github.io/cse342/lab/01-2025-01-07/report.pdf): 06 January 2026
+
 ## Java IDEs
 
 -   [**NetBeans**](https://netbeans.apache.org/front/main/index.html)
