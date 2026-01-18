@@ -13,6 +13,7 @@ class Book{
                 + "\nTitle: " + title
                 + "\nAuthor: " + author
                 + "\nYear Published: " + yearPublished
+                + "\n"
         );
     }
 }
