@@ -29,7 +29,7 @@ Course offered by,
 ## Lab Notes
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse342/lab/01-2026-01-07/note.pdf): 07 January 2026
-- [**Lab 02**](https://shadowshahriar.github.io/cse342/lab/01-2026-01-14/note.pdf): 14 January 2026
+- **Lab 02**: 14 January 2026
 
 ## Lab Reports
 
