@@ -32,8 +32,8 @@ Course offered by,
 
 ## Lab Reports
 
-- [**Lab 01**](https://shadowshahriar.github.io/cse342/lab/01-2025-01-07/report.pdf): 07 January 2026
-- [**Lab 02**](https://shadowshahriar.github.io/cse342/lab/01-2025-01-14/report.pdf): 14 January 2026
+- [**Lab 01**](#lab-reports): 07 January 2026
+- [**Lab 02**](https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/report.pdf): 14 January 2026
 
 ## Java IDEs
 
