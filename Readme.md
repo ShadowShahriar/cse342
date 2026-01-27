@@ -29,6 +29,7 @@ Course offered by,
 - [**Class 04**](https://shadowshahriar.github.io/cse342/notes/class-04.pdf): 15 January 2026
 - [**Class 05**](https://shadowshahriar.github.io/cse342/notes/class-05.pdf): 19 January 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse342/notes/class-06.pdf): 22 January 2026
+- [**Class 07**](https://shadowshahriar.github.io/cse342/notes/class-07.pdf): 26 January 2026
 
 ## Lab Notes
 
