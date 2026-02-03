@@ -46,7 +46,7 @@ Course offered by,
 - [**Lab 02**][LR02]: 14 January 2026 &#124; [**Tasks**][LT02]
 - [**Lab 03**][LR03]: 21 January 2026 &#124; [**Tasks**][LT03]
 - **Lab 04**: 28 January 2026
-- **Lab 05**: 28 January 2026 (❌ No class)
+- **Lab 05**: 04 February 2026 (❌ No class)
 
 [LR02]: https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/report.pdf
 [LR03]: https://shadowshahriar.github.io/cse342/lab/03-2026-01-21/report.pdf
