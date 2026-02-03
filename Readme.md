@@ -30,18 +30,23 @@ Course offered by,
 - [**Class 05**](https://shadowshahriar.github.io/cse342/notes/class-05.pdf): 19 January 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse342/notes/class-06.pdf): 22 January 2026
 - [**Class 07**](https://shadowshahriar.github.io/cse342/notes/class-07.pdf): 26 January 2026
+- [**Class 08**](https://shadowshahriar.github.io/cse342/notes/class-08.pdf): 29 January 2026
+- **Class 09**: 02 February 2026 (❌ CT break)
 
 ## Lab Notes
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse342/lab/01-2026-01-07/note.pdf): 07 January 2026
 - **Lab 02**: 14 January 2026 (No notes)
 - **Lab 03**: 21 January 2026 (No notes)
+- **Lab 04**: 28 January 2026 (No notes)
 
 ## Lab Reports
 
 - **Lab 01**: 07 January 2026 &#124; [**Tasks**][LT01]
 - [**Lab 02**][LR02]: 14 January 2026 &#124; [**Tasks**][LT02]
 - [**Lab 03**][LR03]: 21 January 2026 &#124; [**Tasks**][LT03]
+- **Lab 04**: 28 January 2026
+- **Lab 05**: 28 January 2026 (❌ No class)
 
 [LR02]: https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/report.pdf
 [LR03]: https://shadowshahriar.github.io/cse342/lab/03-2026-01-21/report.pdf
