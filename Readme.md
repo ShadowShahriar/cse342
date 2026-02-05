@@ -32,6 +32,7 @@ Course offered by,
 - [**Class 07**](https://shadowshahriar.github.io/cse342/notes/class-07.pdf): 26 January 2026
 - [**Class 08**](https://shadowshahriar.github.io/cse342/notes/class-08.pdf): 29 January 2026
 - **Class 09**: 02 February 2026 (❌ CT break)
+- [**Class 10**](https://shadowshahriar.github.io/cse342/notes/class-10.pdf): 05 February 2026 (EOC)
 
 ## Lab Notes
 
