@@ -23,6 +23,8 @@ Course offered by,
 
 ## Class Notes
 
+#### Mid Term
+
 - [**Class 01**](https://shadowshahriar.github.io/cse342/notes/class-01.pdf): 05 January 2026
 - [**Class 02**](https://shadowshahriar.github.io/cse342/notes/class-02.pdf): 08 January 2026
 - [**Class 03**](https://shadowshahriar.github.io/cse342/notes/class-03.pdf): 12 January 2026
@@ -34,26 +36,37 @@ Course offered by,
 - **Class 09**: 02 February 2026 (❌ CT break)
 - [**Class 10**](https://shadowshahriar.github.io/cse342/notes/class-10.pdf): 05 February 2026 (EOC)
 
+#### Final Term
+
+- [**Class 01-02**](https://shadowshahriar.github.io/cse342/notes/class-11.pdf): 4-5 March 2026
+
 ## Lab Notes
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse342/lab/01-2026-01-07/note.pdf): 07 January 2026
 - **Lab 02**: 14 January 2026 (No notes)
 - **Lab 03**: 21 January 2026 (No notes)
 - **Lab 04**: 28 January 2026 (No notes)
+- **Lab 05**: 04 February 2026 (❌ No class)
+- [**Lab 06**](https://shadowshahriar.github.io/cse342/notes/class-11.pdf): 04 March 2026
+- **Lab 07**: 01 April 2026 (❌ Lab Mid)
 
 ## Lab Reports
 
 - **Lab 01**: 07 January 2026 &#124; [**Tasks**][LT01]
 - [**Lab 02**][LR02]: 14 January 2026 &#124; [**Tasks**][LT02]
 - [**Lab 03**][LR03]: 21 January 2026 &#124; [**Tasks**][LT03]
-- **Lab 04**: 28 January 2026
+- **Lab 04**: 28 January 2026 &#124; [**Tasks**][LT04]
 - **Lab 05**: 04 February 2026 (❌ No class)
+- **Lab 06**: 04 March 2026 &#124; [**Tasks**][LT06]
+- **Lab 07**: 01 April 2026 (❌ Lab Mid)
 
 [LR02]: https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/report.pdf
 [LR03]: https://shadowshahriar.github.io/cse342/lab/03-2026-01-21/report.pdf
 [LT01]: https://shadowshahriar.github.io/cse342/lab/01-2026-01-07/note.pdf
 [LT02]: https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/tasks.pdf
 [LT03]: https://shadowshahriar.github.io/cse342/lab/03-2026-01-21/tasks.pdf
+[LT04]: https://shadowshahriar.github.io/cse342/lab/04-2026-01-28/tasks.pdf
+[LT06]: https://shadowshahriar.github.io/cse342/lab/06-2026-03-04/tasks.pdf
 
 ## Java IDEs
 
