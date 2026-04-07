@@ -38,7 +38,10 @@ Course offered by,
 
 #### Final Term
 
-- [**Class 01-02**](https://shadowshahriar.github.io/cse342/notes/class-11.pdf): 4-5 March 2026
+- [**Class 01-02**](https://shadowshahriar.github.io/cse342/notes/class-11.pdf): 04-05 March 2026
+- [**Class 03**](https://shadowshahriar.github.io/cse342/notes/class-12.pdf): 30 March 2026
+- [**Class 04**](https://shadowshahriar.github.io/cse342/notes/class-13.pdf): 02 April 2026
+- [**Class 05**](https://shadowshahriar.github.io/cse342/notes/class-14.pdf): 06 April 2026
 
 ## Lab Notes
 
