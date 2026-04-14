@@ -44,6 +44,8 @@ Course offered by,
 - [**Class 05**](https://shadowshahriar.github.io/cse342/notes/class-14.pdf): 06 April 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse342/notes/class-15.pdf): 09 April 2026
 - [**Class 07**](https://shadowshahriar.github.io/cse342/notes/class-16.pdf): 13 April 2026
+- **Class 08**: 16 April 2026 (❌ CT break)
+- **Class 09**: 20 April 2026 (EOC)
 
 ## Lab Notes
 
@@ -55,6 +57,7 @@ Course offered by,
 - [**Lab 06**](https://shadowshahriar.github.io/cse342/notes/class-11.pdf): 04 March 2026
 - **Lab 07**: 01 April 2026 (❌ Lab Mid)
 - **Lab 08**: 08 April 2026 (No notes)
+- **Lab 09**: 15 April 2026 (❌ Lab Final)
 
 ## Lab Reports
 
@@ -66,6 +69,7 @@ Course offered by,
 - **Lab 06**: 04 March 2026 &#124; [**Tasks**][LT06]
 - **Lab 07**: 01 April 2026 (❌ Lab Mid)
 - **Lab 08**: 08 April 2026 &#124; [**Tasks**][LT08]
+- **Lab 09**: 15 April 2026 &#124; **Tasks**
 
 [LR02]: https://shadowshahriar.github.io/cse342/lab/02-2026-01-14/report.pdf
 [LR03]: https://shadowshahriar.github.io/cse342/lab/03-2026-01-21/report.pdf
