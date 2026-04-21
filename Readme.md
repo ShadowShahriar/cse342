@@ -45,7 +45,7 @@ Course offered by,
 - [**Class 06**](https://shadowshahriar.github.io/cse342/notes/class-15.pdf): 09 April 2026
 - [**Class 07**](https://shadowshahriar.github.io/cse342/notes/class-16.pdf): 13 April 2026
 - **Class 08**: 16 April 2026 (❌ CT break)
-- **Class 09**: 20 April 2026 (EOC)
+- [**Class 09**](https://shadowshahriar.github.io/cse342/notes/class-17.pdf): 20 April 2026 (EOC)
 
 ## Lab Notes
 
